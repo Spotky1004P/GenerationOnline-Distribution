@@ -1,0 +1,21 @@
+{
+  "$schema": "file:///D:/Launcher_Comm/GenerationOnline/GenerationOnline-Distribution/schemas/ServerMetaSchema.schema.json",
+  "meta": {
+    "version": "1.0.0",
+    "name": "Generation Online 모드 팩",
+    "description": "Generation Online을 접속하는데 필수적인 모드가 포함 되어있는 모드팩입니다.",
+    "icon": "https://cdn.discordapp.com/attachments/1145650310300319824/1145697987109081189/-001_1.png",
+    "address": "PixelmonGN.kr",
+    "discord": {
+      "shortId": "Generation Online",
+      "largeImageText": "PixelmonGN.kr",
+      "largeImageKey": "icon"
+    },
+    "mainServer": true,
+    "autoconnect": true
+  },
+  "forge": {
+    "version": "36.2.39"
+  },
+  "untrackedFiles": []
+}

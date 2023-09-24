@@ -1,0 +1,11 @@
+{
+  "$schema": "file:///D:/Launcher_Comm/GenerationOnline/GenerationOnline-Distribution/schemas/DistroMetaSchema.schema.json",
+  "meta": {
+    "rss": "<LINK TO RSS FEED>",
+    "discord": {
+      "clientId": "1155532430078386238",
+      "smallImageText": "Generation Online | PixelmonGN.kr",
+      "smallImageKey": "icon"
+    }
+  }
+}
