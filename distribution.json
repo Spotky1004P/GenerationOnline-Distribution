@@ -397,6 +397,16 @@
           }
         },
         {
+          "id": "journeymap:journeymap:5.8.5p6@jar",
+          "name": "Journeymap",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 6693593,
+            "url": "https://github.com/Spotky1004P/GenerationOnline-Distribution/raw/main/servers/GenerationOnline-1.16.5/forgemods/required/journeymap-1.16.5-5.8.5p6_1.jar",
+            "MD5": "398f1e0c23efec7b5ed317ba0e80a7c7"
+          }
+        },
+        {
           "id": "io.izzel.lightfall.client:lightfallclient:1.0.0+unknown@jar",
           "name": "LightfallClient",
           "type": "ForgeMod",
