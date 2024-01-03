@@ -397,16 +397,6 @@
           }
         },
         {
-          "id": "journeymap:journeymap:5.8.5p6@jar",
-          "name": "Journeymap",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 6693593,
-            "url": "https://github.com/Spotky1004P/GenerationOnline-Distribution/raw/main/servers/GenerationOnline-1.16.5/forgemods/required/journeymap-1.16.5-5.8.5p6_1.jar",
-            "MD5": "398f1e0c23efec7b5ed317ba0e80a7c7"
-          }
-        },
-        {
           "id": "io.izzel.lightfall.client:lightfallclient:1.0.0+unknown@jar",
           "name": "LightfallClient",
           "type": "ForgeMod",
@@ -427,13 +417,13 @@
           }
         },
         {
-          "id": "com.pixelmonmod:pixelmon:9.1.7@jar",
+          "id": "com.pixelmonmod:pixelmon:9.1.10@jar",
           "name": "Pixelmon Mod",
           "type": "ForgeMod",
           "artifact": {
-            "size": 401231946,
-            "url": "https://cdn.modrinth.com/data/59ZceYlU/versions/pQsLSLPU/Pixelmon-1.16.5-9.1.7-universal.jar",
-            "MD5": "57a6f8dba9a9b9ad4beee107b84f86be"
+            "size": 413632177,
+            "url": "https://cdn.modrinth.com/data/59ZceYlU/versions/Ro92Bd6N/Pixelmon-1.16.5-9.1.10-universal.jar",
+            "MD5": "92ab95c6e1f3c94cfb827eeb584b4789"
           }
         },
         {
