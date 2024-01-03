@@ -397,6 +397,16 @@
           }
         },
         {
+          "id": "journeymap:journeymap:5.8.5p6@jar",
+          "name": "Journeymap",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 6693593,
+            "url": "https://github.com/Spotky1004P/GenerationOnline-Distribution/raw/main/servers/GenerationOnline-1.16.5/forgemods/required/journeymap-1.16.5-5.8.5p6_1%20(1).jar",
+            "MD5": "398f1e0c23efec7b5ed317ba0e80a7c7"
+          }
+        },
+        {
           "id": "io.izzel.lightfall.client:lightfallclient:1.0.0+unknown@jar",
           "name": "LightfallClient",
           "type": "ForgeMod",
@@ -422,7 +432,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 413632177,
-            "url": "https://cdn.modrinth.com/data/59ZceYlU/versions/Ro92Bd6N/Pixelmon-1.16.5-9.1.10-universal.jar",
+            "url": "https://github.com/Spotky1004P/GenerationOnline-Distribution/raw/main/servers/GenerationOnline-1.16.5/forgemods/required/Pixelmon-1.16.5-9.1.10-universal.jar",
             "MD5": "92ab95c6e1f3c94cfb827eeb584b4789"
           }
         },
@@ -434,6 +444,17 @@
             "size": 5520538,
             "url": "https://github.com/Spotky1004P/GenerationOnline-Distribution/raw/main/servers/GenerationOnline-1.16.5/libraries/OptiFine_1.16.5_HD_U_G8_MOD.jar",
             "MD5": "1bb4abf156036d8ebe74b764d4800fef"
+          }
+        },
+        {
+          "id": "Generation Resource Pack.zip",
+          "name": "Generation Resource Pack.zip",
+          "type": "File",
+          "artifact": {
+            "size": 465973,
+            "url": "https://github.com/Spotky1004P/GenerationOnline-Distribution/raw/main/servers/GenerationOnline-1.16.5/files/resourcepacks/Generation%20Resource%20Pack.zip",
+            "MD5": "88ff2c2c4bfe29f16a3af4ceb07dd966",
+            "path": "resourcepacks/Generation Resource Pack.zip"
           }
         }
       ]
