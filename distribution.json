@@ -432,7 +432,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 413632177,
-            "url": "https://cdn.modrinth.com/data/59ZceYlU/versions/Ro92Bd6N/Pixelmon-1.16.5-9.1.10-universal.jar",
+            "url": "https://github.com/Spotky1004P/GenerationOnline-Distribution/raw/main/servers/GenerationOnline-1.16.5/forgemods/required/Pixelmon-1.16.5-9.1.10-universal.jar",
             "MD5": "92ab95c6e1f3c94cfb827eeb584b4789"
           }
         },
@@ -451,9 +451,9 @@
           "name": "Generation Resource Pack.zip",
           "type": "File",
           "artifact": {
-            "size": 465973,
+            "size": 384295,
             "url": "https://github.com/Spotky1004P/GenerationOnline-Distribution/raw/main/servers/GenerationOnline-1.16.5/files/resourcepacks/Generation%20Resource%20Pack.zip",
-            "MD5": "88ff2c2c4bfe29f16a3af4ceb07dd966",
+            "MD5": "b9c79b09fbc2a3f07308871899fbdfd6",
             "path": "resourcepacks/Generation Resource Pack.zip"
           }
         }
