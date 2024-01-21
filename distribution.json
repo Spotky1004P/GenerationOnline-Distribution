@@ -447,14 +447,14 @@
           }
         },
         {
-          "id": "Generation Resource Pack.zip",
-          "name": "Generation Resource Pack.zip",
+          "id": "Generation_Resource_Pack_-_2024.1.21.zip",
+          "name": "Generation_Resource_Pack_-_2024.1.21.zip",
           "type": "File",
           "artifact": {
-            "size": 384295,
-            "url": "https://github.com/Spotky1004P/GenerationOnline-Distribution/raw/main/servers/GenerationOnline-1.16.5/files/resourcepacks/Generation%20Resource%20Pack.zip",
-            "MD5": "b9c79b09fbc2a3f07308871899fbdfd6",
-            "path": "resourcepacks/Generation Resource Pack.zip"
+            "size": 403338,
+            "url": "https://github.com/Spotky1004P/GenerationOnline-Distribution/raw/main/servers/GenerationOnline-1.16.5/files/resourcepacks/Generation_Resource_Pack_-_2024.1.21.zip",
+            "MD5": "64294dd9d4c6f29bcbfc6c0bf8a4dce4",
+            "path": "resourcepacks/Generation_Resource_Pack_-_2024.1.21.zip"
           }
         }
       ]
