@@ -407,8 +407,6 @@
           }
         },
         {
-          "id": "io.izzel.lightfall.client:lightfallclient:1.0.0+unknown@jar",
-        {
           "id": "kr.neko.sokcuri:naraechat:1.16.3-0.7.1@jar",
           "name": "Narae Chat",
           "type": "ForgeMod",
@@ -424,18 +422,18 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 413632177,
-            "url": "https://cdn.modrinth.com/data/59ZceYlU/versions/Ro92Bd6N/Pixelmon-1.16.5-9.1.10-universal.jar",
+            "url": "https://github.com/Spotky1004P/GenerationOnline-Distribution/raw/main/servers/GenerationOnline-1.16.5/forgemods/required/Pixelmon-1.16.5-9.1.10-universal.jar",
             "MD5": "92ab95c6e1f3c94cfb827eeb584b4789"
           }
         },
         {
-          "id": "me.maxish0t.wac:watchdog:0.9@jar",
+          "id": "me.maxish0t.wac:watchdog:0.7@jar",
           "name": "WatchDog AntiCheat",
           "type": "ForgeMod",
           "artifact": {
-            "size": 70531,
-            "url": "https://github.com/Spotky1004P/GenerationOnline-Distribution/raw/main/servers/GenerationOnline-1.16.5/forgemods/required/watchmod.jar",
-            "MD5": "577b7314555250fac3cf85eeb3281f17"
+            "size": 70973,
+            "url": "https://github.com/Spotky1004P/GenerationOnline-Distribution/raw/main/servers/GenerationOnline-1.16.5/forgemods/required/WatchDog-AntiCheat-1.16.5-0.7.jar",
+            "MD5": "d2d9887a40fc689a7b716db310ad5f21"
           }
         },
         {
