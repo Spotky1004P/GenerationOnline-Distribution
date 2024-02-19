@@ -427,13 +427,13 @@
           }
         },
         {
-          "id": "me.maxish0t.wac:watchdog:0.7@jar",
+          "id": "me.maxish0t.wac:watchdog:0.8@jar",
           "name": "WatchDog AntiCheat",
           "type": "ForgeMod",
           "artifact": {
-            "size": 70973,
-            "url": "https://github.com/Spotky1004P/GenerationOnline-Distribution/raw/main/servers/GenerationOnline-1.16.5/forgemods/required/WatchDog-AntiCheat-1.16.5-0.7.jar",
-            "MD5": "d2d9887a40fc689a7b716db310ad5f21"
+            "size": 70595,
+            "url": "https://github.com/Spotky1004P/GenerationOnline-Distribution/raw/main/servers/GenerationOnline-1.16.5/forgemods/required/WatchDog-AntiCheat-1.16.5-0.8.jar",
+            "MD5": "c23fbefbf04f4919807efc9ece12082b"
           }
         },
         {
